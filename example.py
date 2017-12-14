@@ -1,6 +1,6 @@
 def reverse_words(s):
     """
-    Reverses order or words in string s.
+    RReverses order or words in string s.
     """
     words = s.split()
     words_reversed = words[::-1]
